@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">voice</string>
+    <string name="i_m_a_button">I\'m a button</string>
+    <string name="submit">submit</string>
+    <string name="what">what?</string>
+    <string name="action_settings">action_settings</string>
+</resources>
